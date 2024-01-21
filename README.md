@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo: Jesús J. Guillen M.</h1>
-<h3 align="center">Soy un Científico de Datos altamente motivado, con una sólida formación en Estadística y una extensa experiencia aplicando técnicas avanzadas de Machine Learning y Deep Learning para abordar desafíos del mundo real. Mi enfoque principal se orienta hacia la construcción de modelos predictivos y la extracción de información valiosa a partir de datos complejos. A lo largo de mi carrera, he trabajado en diversos sectores, desde la industria financiera hasta la tecnológica, demostrando habilidades excepcionales en el desarrollo e implementación de soluciones efectivas basadas en datos. Esto abarca desde análisis exploratorios de datos, diseño de modelos hasta la visualización de datos.</h3>
+<h3 align="center">Soy Estadistico y Científico de Datos altamente motivado, con una extensa experiencia aplicando técnicas avanzadas de Machine Learning y Deep Learning para abordar desafíos del mundo real. Mi enfoque principal se orienta hacia la construcción de modelos predictivos y la extracción de información valiosa a partir de datos complejos. Esto abarca desde análisis exploratorios de datos, diseño de modelos hasta la visualización de datos.</h3>
 
 - 🔭 Estoy trabajando como Científico de Datos **Proyecto de Marketing Digital**
 
